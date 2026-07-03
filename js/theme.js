@@ -239,7 +239,7 @@ $(this).parallaxie({
 $(".counter").each(function () {
     $(this).appear(function () {
         $(this).countTo({
-			speed: 1800,
+			speed: 2000
 		});
     });
 });
